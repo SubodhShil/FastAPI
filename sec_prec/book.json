@@ -52,5 +52,14 @@
         "published_date": "2011-21-01",
         "page_count": 3006,
         "language": "English"
+    },
+    {
+        "id": 7,
+        "title": "True Maniac",
+        "author": "Antu",
+        "publisher": "Pium Pium",
+        "published_date": "2025-24-06",
+        "page_count": 55,
+        "language": "BN"
     }
 ]
