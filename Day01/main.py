@@ -12,3 +12,5 @@ discover_and_include_routers(app, "routers.headers_practice")
 @app.get("/")
 async def hello():
     return {"message": "Hello Welcome to FastAPI!"}
+
+
