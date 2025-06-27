@@ -7,4 +7,4 @@ async def create_tables_data():
         "message_start": "Creating tables...",
         "message_success": "✅ Tables created successfully.",
         "message_error": "❌ Error creating tables: {error}"
-    } 
+    }

@@ -10,4 +10,4 @@ async def update_data_config():
         "message_success": "✅ Student updated successfully.",
         "message_not_found": "❌ Student with ID {id} not found.",
         "message_error": "❌ Error updating student: {error}"
-    } 
+    }
